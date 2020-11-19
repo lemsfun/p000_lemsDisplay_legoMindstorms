@@ -18,7 +18,7 @@ File list:
 
     p000_lemsDisplay_sc.lms : lego mindstroms inventor scratch code file
 
-    p000_lemsDisplay_sc.jpg : lego mindstroms inventor scratch code picture
+    p000_lemsDisplay_sc.png : lego mindstroms inventor scratch code picture
 
 
   // python
@@ -34,7 +34,7 @@ File Path:
   
     p000_lemsDisplay_sc.lms
 
-    p000_lemsDisplay_sc.jpg
+    p000_lemsDisplay_sc.png
 
   python\
 
