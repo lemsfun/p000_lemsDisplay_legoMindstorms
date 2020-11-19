@@ -10,3 +10,7 @@ hub = MSHub()
 
 # Write your program here.
 hub.speaker.beep()
+
+while 1:
+    hub.light_matrix.write('L E M S')
+    wait_for_seconds(1)
